@@ -24,9 +24,9 @@ João Lucas Lemes Muassab
 
 ## 📄 Descrição
 
-Este repositório contém os diagramas UML modificados para a Avaliação NP2 da disciplina de Engenharia de Software, desenvolvida no contexto do PIMIII (Projeto Integrado Multidisciplinar III).
+Este repositório contém os diagramas UML modificados para a Avaliação NP2 da disciplina de Engenharia de Software, desenvolvida no contexto do PIMII (Projeto Integrado Multidisciplinar III).
 
-O projeto inclui uma análise completa do sistema de plataforma de ensino online (`PIM_III`) com representações visuais dos requisitos funcionais, estrutura de aulas e fluxos de interação.
+O projeto inclui uma análise completa do sistema de plataforma de ensino online (`PIM_II`) com representações visuais dos requisitos funcionais, estrutura de aulas e fluxos de interação.
 
 -----
 
@@ -42,7 +42,7 @@ Todos os elementos do diagrama seguem o padrão: `JLM.NomeDoCaso` (ex.: `JLM.Alt
 
 ## 📁 Conteúdo do Arquivo
 
-O arquivo Astah (`JoaoLucas_PIMIII.asta`) contém os seguintes diagramas:
+O arquivo Astah (`JoaoLucas_PIMII.asta`) contém os seguintes diagramas:
 
 ### 1. Diagrama de Casos de Uso
 
@@ -98,7 +98,7 @@ Para visualizar e editar os diagramas, é necessário ter instalado:
 ## 📂 Estrutura de Arquivos
 
 ```
-├── JoaoLucas_PIMIII.asta    # Arquivo principal com todos os diagramas
+├── JoaoLucas_PIMII.asta    # Arquivo principal com todos os diagramas
 └── README.md                 # Este arquivo
 ```
 
@@ -109,7 +109,7 @@ Para visualizar e editar os diagramas, é necessário ter instalado:
 ### Abrindo o arquivo no Astah:
 
 1. Abra o Astah Professional ou Astah Community
-1. Acesse: `File → Open → Selecione JoaoLucas_PIMIII.asta`
+1. Acesse: `File → Open → Selecione JoaoLucas_PIMII.asta`
 1. Navegue entre os diagramas usando a aba Modelo no lado esquerdo
 1. Para visualizar cada diagrama, clique duas vezes em seu nome
 
@@ -146,7 +146,7 @@ Astah: File → Export → Image
 **Autor:** João Lucas Lemes Muassab  
 **Disciplina:** Engenharia de Software  
 **Professor:** Egídio  
-**Instituição:** PIMIII  
+**Instituição:** PIMII  
 **Dados de Entrega:** NP2
 
 -----
